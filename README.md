@@ -3,7 +3,7 @@
 **📱 اپلیکیشن فهرست کارها (تسک لیست) ساده با کاتلین و جت‌پک کامپوز - طراحی‌شده با معماری MVVM و Clean Architecture**
 
 <p align="center">
-  <img src="https://github.com/shayanloo/TodoApp/blob/master/app/src/main/res/drawable/banner.png" alt="TODO App Banner" width="100%" />
+  <img src="https://github.com/shayanloo/TodoApp/blob/main/app/src/main/res/drawable/banner.png?raw=true" alt="TODO App Banner" width="100%" />
 </p>
 
 ---
