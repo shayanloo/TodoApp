@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash -->
+    <string name="app_name">Todo</string>
+    <string name="splash_logo_desc">لوگوی برنامه</string>
+    <!-- Intro Slides -->
+    <string name="intro_title_1">سازماندهی وظایف</string>
+    <string name="intro_desc_1">تسک‌هایت را دسته‌بندی و مدیریت کن</string>
+    <string name="intro_title_2">یادداشت و زیرتسک</string>
+    <string name="intro_desc_2">برای هر تسک یادداشت و مراحل اضافه کن</string>
+    <string name="intro_title_3">تجربه کاربری مدرن</string>
+    <string name="intro_desc_3">تم روشن/تیره و زبان قابل انتخاب</string>
+    <string name="intro_next">بعدی</string>
+    <string name="intro_start">شروع</string>
+    <!-- Settings -->
+    <string name="settings">تنظیمات</string>
+    <string name="theme">تم</string>
+    <string name="theme_light">روشن</string>
+    <string name="theme_dark">تیره</string>
+    <string name="language">زبان</string>
+    <string name="language_fa">فارسی</string>
+    <string name="language_en">انگلیسی</string>
+    <string name="calendar">تقویم</string>
+    <string name="select_language">انتخاب زبان</string>
+    <string name="select_theme">انتخاب تم</string>
+    <string name="account">حساب کاربری</string>
+    <string name="payment_methods">روش‌های پرداخت</string>
+    <string name="privacy">حریم خصوصی</string>
+    <string name="notifications">اعلان‌ها</string>
+    <string name="look_and_feel">ظاهر نرم افزار</string>
+    <string name="faq">سوالات متداول</string>
+    <string name="send_feedback">ارسال بازخورد</string>
+    <string name="see_whats_new">تازه‌ها</string>
+    <string name="legal">قوانین</string>
+    <string name="licenses">مجوزها</string>
+</resources> 

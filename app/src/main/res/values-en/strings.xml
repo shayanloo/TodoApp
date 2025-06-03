@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="splash_logo_desc">App Logo</string>
+    <string name="intro_title_1">Organize Tasks</string>
+    <string name="intro_desc_1">Categorize and manage your tasks</string>
+    <string name="intro_title_2">Notes Subtasks</string>
+    <string name="intro_desc_2">Add notes and steps to each task</string>
+    <string name="intro_title_3">Modern Experience</string>
+    <string name="intro_desc_3">Light/Dark theme and language selection</string>
+    <string name="intro_next">Next</string>
+    <string name="intro_start">Start</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="language">Language</string>
+    <string name="language_fa">Persian</string>
+    <string name="language_en">English</string>
+    <string name="calendar">Calendar</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_theme">Select Theme</string>
+    <string name="account">Account</string>
+    <string name="payment_methods">Payment methods</string>
+    <string name="privacy">Privacy</string>
+    <string name="notifications">Notifications</string>
+    <string name="look_and_feel">Look Feel</string>
+    <string name="faq">FAQ</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="see_whats_new">See whats new</string>
+    <string name="legal">Legal</string>
+    <string name="licenses">Licenses</string>
+</resources> 
